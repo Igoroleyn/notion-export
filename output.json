@@ -1,0 +1,3322 @@
+[
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-811c-a61b-d6fd98dca6bb",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-8093-bb08-fcdbb6c964ef",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Gorhouse",
+    "id": "2174ec27-5b4b-809a-8b10-fdd0f78478c9",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gorhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gorhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Gorhouse_1750413056544.png"
+    ]
+  },
+  {
+    "title": "Hams",
+    "id": "2174ec27-5b4b-809f-a345-c04350292981",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hams",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hams",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Hams_1750413058425.png"
+    ]
+  },
+  {
+    "title": "DAn",
+    "id": "2174ec27-5b4b-8019-8d5e-e417bd86a35d",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DAn",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DAn",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\DAn_1750413059675.png",
+      "downloads\\DAn_1750413060178.png"
+    ]
+  },
+  {
+    "title": "TGL ",
+    "id": "2174ec27-5b4b-80ab-825f-c70644bd6531",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TGL ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TGL ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\TGL__1750413061082.png",
+      "downloads\\TGL__1750413061548.png"
+    ]
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-80c8-b00f-d16ba00152cc",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-8044-b8b2-f0c4f295cff4",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Backtesting Session",
+    "id": "2174ec27-5b4b-809f-a203-fd15794d957e",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Backtesting Session",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Backtesting Session",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Untitled",
+    "id": "2174ec27-5b4b-8023-98d8-d3729db0a273",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Untitled",
+    "id": "2174ec27-5b4b-8068-8539-ea31c6141154",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Backtesting Session",
+    "id": "2174ec27-5b4b-8006-ace1-cb7fe66d312a",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Backtesting Session",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Backtesting Session",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Untitled",
+    "id": "2174ec27-5b4b-801c-87ab-f6a569ad5756",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-8089-9c8f-f02ab8f98fd2",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-8034-ac06-e65f8efaff37",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Untitled",
+    "id": "2174ec27-5b4b-8098-afd1-ccc4da886da6",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Untitled",
+    "id": "2174ec27-5b4b-8032-bc77-c1555cb70306",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Backtesting Session",
+    "id": "2174ec27-5b4b-80c6-911f-fd4b5dcb9b46",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Backtesting Session",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Backtesting Session",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-80ff-9b66-f8f3b3fb9aff",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Untitled",
+    "id": "2174ec27-5b4b-8059-bf80-cf5e83b4153d",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-8049-b1e5-fcaa776fb84e",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry (1)",
+    "id": "2174ec27-5b4b-80d2-b922-da5d1f794d04",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry (1)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry (1)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-8028-95c2-f4603708b0f7",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2174ec27-5b4b-804b-8560-cf4158a736d6",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2164ec27-5b4b-812a-89a8-e09ad7231949",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Chillmeme",
+    "id": "2164ec27-5b4b-80e1-8b7f-fda2ebd8974d",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Chillmeme",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Chillmeme",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Chillmeme_1750413079279.png",
+      "downloads\\Chillmeme_1750413080702.png"
+    ]
+  },
+  {
+    "title": "МЕМЕСOIN",
+    "id": "2164ec27-5b4b-80e6-bb1b-e501bc12c3cf",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "МЕМЕСOIN",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "МЕМЕСOIN",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\МЕМЕСOIN_1750413082005.png",
+      "downloads\\МЕМЕСOIN_1750413082312.png",
+      "downloads\\МЕМЕСOIN_1750413082634.png"
+    ]
+  },
+  {
+    "title": "RMT",
+    "id": "2164ec27-5b4b-8008-9b8c-f2bd64a6f5af",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RMT",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RMT",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\RMT_1750413083375.png",
+      "downloads\\RMT_1750413083713.png"
+    ]
+  },
+  {
+    "title": "Postive coin ",
+    "id": "2164ec27-5b4b-80d0-a8c1-e90e30840423",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Postive coin ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Postive coin ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Postive_coin__1750413084430.png",
+      "downloads\\Postive_coin__1750413084753.png"
+    ]
+  },
+  {
+    "title": "Bleh",
+    "id": "2164ec27-5b4b-8065-b15f-f0f68e10540d",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bleh",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bleh",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Bleh_1750413085709.png",
+      "downloads\\Bleh_1750413086050.png"
+    ]
+  },
+  {
+    "title": "Nuki",
+    "id": "2164ec27-5b4b-80f2-978a-ffae35345815",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nuki",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nuki",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Nuki_1750413086776.png",
+      "downloads\\Nuki_1750413087152.png",
+      "downloads\\Nuki_1750413087454.png"
+    ]
+  },
+  {
+    "title": "TWIM",
+    "id": "2164ec27-5b4b-80ec-827e-da8c884e4900",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TWIM",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TWIM",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\TWIM_1750413088712.png",
+      "downloads\\TWIM_1750413089047.png"
+    ]
+  },
+  {
+    "title": "Bingbong",
+    "id": "2164ec27-5b4b-8012-a472-c7e401584089",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bingbong",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bingbong",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Bingbong_1750413090144.png",
+      "downloads\\Bingbong_1750413090478.png"
+    ]
+  },
+  {
+    "title": "21e8",
+    "id": "2164ec27-5b4b-80a0-a7fe-f0da8c13aa4b",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "21e8",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "21e8",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\21e8_1750413091314.png",
+      "downloads\\21e8_1750413091669.png",
+      "downloads\\21e8_1750413091977.png"
+    ]
+  },
+  {
+    "title": "Chimera",
+    "id": "2164ec27-5b4b-8000-a817-f2c59aacf05e",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Chimera",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Chimera",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Chimera_1750413092965.png",
+      "downloads\\Chimera_1750413093296.png",
+      "downloads\\Chimera_1750413093626.png",
+      "downloads\\Chimera_1750413093936.png"
+    ]
+  },
+  {
+    "title": "MOMO`",
+    "id": "2164ec27-5b4b-8085-9007-c5ddfe2abece",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MOMO`",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MOMO`",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\MOMO`_1750413094995.png",
+      "downloads\\MOMO`_1750413095457.png",
+      "downloads\\MOMO`_1750413095780.png",
+      "downloads\\MOMO`_1750413096224.png"
+    ]
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2154ec27-5b4b-81ad-b1f2-c6f88287578e",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2144ec27-5b4b-8148-a924-ec7bb2497961",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2134ec27-5b4b-8111-bd1e-ca46445daba1",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2124ec27-5b4b-8177-8dc5-ce68788afc1f",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "DAD",
+    "id": "2124ec27-5b4b-80f2-b5e5-fcd1bbf2079d",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DAD",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DAD",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81b9-a9af-dfd00fcd8298",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Wun",
+    "id": "2114ec27-5b4b-810a-9cd0-c59acf3923c1",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wun",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wun",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Boycott",
+    "id": "2114ec27-5b4b-810b-9d14-d209d13c0fa0",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Boycott",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Boycott",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Dog",
+    "id": "2114ec27-5b4b-8131-b127-e55bca0d635b",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dog",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dog",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\Dog_1750413103695.png",
+      "downloads\\Dog_1750413105310.png",
+      "downloads\\Dog_1750413105797.png"
+    ]
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-8175-be20-c9c178c0789f",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81a4-ab01-e1155b8355f9",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81ad-aad7-d83e5aea06ae",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81bd-9ddc-cc42cfe17483",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Chuck",
+    "id": "2114ec27-5b4b-8109-86fb-ce8a556364ae",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Chuck",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Chuck",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "test ",
+    "id": "2114ec27-5b4b-810b-a003-e3d303d52895",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "test ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "test ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Mass",
+    "id": "2114ec27-5b4b-812d-b8eb-fa9d3432199b",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mass",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mass",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "HIM",
+    "id": "2114ec27-5b4b-8133-9988-ddcf3582ccc1",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "HIM",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "HIM",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\HIM_1750413110436.png"
+    ]
+  },
+  {
+    "title": "Palantir",
+    "id": "2114ec27-5b4b-8141-b98f-ca0b5ebcac4b",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "15b3d16e-8b53-4e7a-8421-5166bf97c733",
+            "name": "9LEh9gBkQYmatADqdMNRtcNSLFzoJ5wGBTXGVvqMpump",
+            "color": "default"
+          }
+        ]
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Palantir",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Palantir",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "PB",
+    "id": "2114ec27-5b4b-814e-bf61-f0519cee8621",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "PB",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "PB",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "usmc",
+    "id": "2114ec27-5b4b-8167-9fe7-dfecea827573",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "usmc",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "usmc",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Princess 18.05",
+    "id": "2114ec27-5b4b-816e-931a-eb40fb024ba1",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Princess 18.05",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Princess 18.05",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "KIBO",
+    "id": "2114ec27-5b4b-8172-b999-d3d2ea657075",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "KIBO",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "KIBO",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Opos",
+    "id": "2114ec27-5b4b-8183-ae3c-c6267dcffd6f",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Opos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Opos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Money",
+    "id": "2114ec27-5b4b-81a6-9e65-dbd90e17d7ce",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Money",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "BRO ",
+    "id": "2114ec27-5b4b-81a8-824b-d833f7df4c4f",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-06-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "BRO ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "BRO ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "downloads\\BRO__1750413115988.png"
+    ]
+  },
+  {
+    "title": "Bustamante",
+    "id": "2114ec27-5b4b-81b1-a1fe-ca2a1e7239f2",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bustamante",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bustamante",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81c4-b517-e48028e1b2ff",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81d3-ac7c-c6b37ea04152",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-81f7-80f0-c147900a3be2",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": null
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Backtesting Session",
+    "id": "2114ec27-5b4b-8101-9dda-c4a238bd894c",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Backtesting Session",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Backtesting Session",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "TSF",
+    "id": "2114ec27-5b4b-812e-b328-f09c54140da9",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TSF",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TSF",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Journal Entry",
+    "id": "2114ec27-5b4b-816f-8951-c6b51aceceb3",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Journal Entry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Journal Entry",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Gaydium",
+    "id": "2114ec27-5b4b-81c5-aaec-ea48b9ca0e49",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gaydium",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gaydium",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Billy",
+    "id": "2114ec27-5b4b-81d0-ba01-ec33302ae857",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Billy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Billy",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Monsterify",
+    "id": "2114ec27-5b4b-81dc-8562-ebf8decb3187",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Monsterify",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Monsterify",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Crochetify",
+    "id": "2114ec27-5b4b-81dd-bf61-f133bd408c45",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Crochetify",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Crochetify",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Sol",
+    "id": "2114ec27-5b4b-81e0-b282-cb6f19308549",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sol",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sol",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Lego",
+    "id": "2114ec27-5b4b-81e5-9a70-c2ded0c491c8",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lego",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lego",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "MEME",
+    "id": "2114ec27-5b4b-81eb-8ec6-ed41f302b7f3",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MEME",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MEME",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Lordship",
+    "id": "2114ec27-5b4b-81f8-a034-e262b1d88299",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lordship",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lordship",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "FUR ",
+    "id": "2114ec27-5b4b-81fb-8055-dda0307c7f33",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "FUR ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "FUR ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Leatherify",
+    "id": "2114ec27-5b4b-8187-a500-e9a4962f90c2",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Leatherify",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Leatherify",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  },
+  {
+    "title": "Defiant",
+    "id": "2114ec27-5b4b-81dc-866c-d267c741b894",
+    "properties": {
+      "Date": {
+        "id": "KL%7CJ",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Tags": {
+        "id": "pufM",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Defiant",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Defiant",
+            "href": null
+          }
+        ]
+      }
+    },
+    "images": []
+  }
+]
